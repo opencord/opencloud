@@ -30,7 +30,7 @@ deployment_type: campus
 use_maas: False
 
 # XOS config
-xos_new_tosca_config_templates:
+xos_tosca_config_templates:
   - xos-gui-extensions.yml
   - vtn-service.yaml
   - management-net.yaml
